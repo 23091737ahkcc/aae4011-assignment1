@@ -61,7 +61,7 @@ Sample Screenshot:<img width="1272" height="679" alt="螢幕擷取畫面 2026-03
 
 ## 7. Video Demonstration *(Q3.2 — 5 marks)*
 
-**Video Link:** [YouTube (Unlisted)]([https://youtu.be/your-link-here](https://youtu.be/zGS8g_tCuWs))
+**Video Link:** [YouTube (Unlisted)](https://youtu.be/zGS8g_tCuWs)
 
 ## 8. Reflection & Critical Analysis *(Q3.3 — 8 marks, 300–500 words)*
 
