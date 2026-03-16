@@ -15,7 +15,13 @@ I have chossed YOLOv5s for this project since it balances both detect speed and 
 ## 3. Repository Structure
 
 *Show your ROS package file layout (package.xml, CMakeLists.txt, launch files, scripts, etc.).*
+            # ROS Package Root
 
+├── README.md                 #
+├── detect_cars.py            # Build configuration
+├── terminal 1                # Python executable scripts
+├── terminal 2                # Launch files
+└── terminal 3                # Project documentation
 
 ## 4. Prerequisites
 
