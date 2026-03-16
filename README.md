@@ -89,6 +89,3 @@ Sample Screenshot:<img width="1272" height="679" alt="螢幕擷取畫面 2026-03
 
 *Discuss two challenges of deploying this pipeline on an actual drone in real time.*
 
-## 9. References
-
-*List any references, libraries, or datasets used.*
