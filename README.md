@@ -13,15 +13,17 @@ In this project, we are going to search and learn how to make a ROS based vehicl
 I have chossed YOLOv5s for this project since it balances both detect speed and accuracy while maintaining the frame rate.
 
 ## 3. Repository Structure
+aae4011-assignment1
 
-*Show your ROS package file layout (package.xml, CMakeLists.txt, launch files, scripts, etc.).*
-            # ROS Package Root
+├── README.md                 # project document
 
-├── README.md                 #
-├── detect_cars.py            # Build configuration
-├── terminal 1                # Python executable scripts
-├── terminal 2                # Launch files
-└── terminal 3                # Project documentation
+├── detect_cars.py            # base code
+
+├── terminal 1                # roscore
+
+├── terminal 2                # export display
+
+└── terminal 3                # play rosbag
 
 ## 4. Prerequisites
 
