@@ -1,0 +1,1 @@
+rosbag play -l ~/catkin_ws/data/*.bag
