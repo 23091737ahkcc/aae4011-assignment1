@@ -119,7 +119,11 @@ For the limitations, it does not actually look on your screen so there will be m
 
 ### (c) How to Improve Accuracy? *(2 marks)*
 
-*Propose two concrete strategies to improve detection accuracy and explain why each would help.*
+There are two way to improve accuracy and performance, using related data and giving vehicle label.
+
+For using related data, it can improve the detection accuracy by providing serval specific domain data like different car types data. In this project, the dataset is not corresponding and lead to wrong detection occurs.
+
+For giving ID label, it can improve analysis by giving every vehicles an lifetime ID. Deep SORT can be a tool to give ID and improve tracting on moving cars.
 
 
 ### (d) Real-World Challenges *(2 marks)*
