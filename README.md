@@ -45,17 +45,40 @@ Python Version: 3.8
 
 ## 5. How to Run *(Q3.1 — 2 marks)*
 
-*Provide clear, step-by-step instructions:*
-
 1. Clone the repository
+
+        cd ~/catkin_ws/src
+        git clone https://github.com/23091737ahkcc/aae4011-assignment1
+
    
 2. Install dependencies
    
+        pip3 install torch torchvision torchaudio opencv-python numpy requests
+        sudo apt-get update
+        sudo apt-get install ros-noetic-compressed-image-transport ros-noetic-cv-bridge
+
+
 3. Build the ROS package
    
+        cd ~/catkin_ws
+        catkin_make
+        source devel/setup.bash
+        chmod +x src/vehicle_detection/scripts/detect_cars.py
+
+
 4. Place the rosbag file
    
+        mkdir -p ~/catkin_ws/data
+
 5. Launch the pipeline
+
+        roscore
+
+        export DISPLAY=:0
+        rosrun vehicle_detection detect_cars.py
+
+        rosbag play -l ~/catkin_ws/data/*.bag
+
 
 ## 6. Sample Results
 
