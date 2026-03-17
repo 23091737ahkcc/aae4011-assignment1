@@ -6,7 +6,7 @@
 
 ## 1. Overview
 
-In this project, we are going to search and learn how to make a ROS based vehicle detector to identify vehicle in a rosbag. The task includes finding a workable code editor and extensions, and make the code for ros detector.
+In this project, we are going to research and learn how to make a ROS based vehicle detector to identify vehicle in a rosbag. The task includes finding a workable code editor and extensions, and make the code for ros detector.
 
 ## 2. Detection Method *(Q3.1 — 2 marks)*
 
