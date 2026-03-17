@@ -128,6 +128,10 @@ For giving ID label, it can improve analysis by giving every vehicles an lifetim
 
 ### (d) Real-World Challenges *(2 marks)*
 
-*Discuss two challenges of deploying this pipeline on an actual drone in real time.*
+There will be challenges for real life usage, hardware and environment.
+
+For hardware, the requirment of GPU or TPU will be higher for real time collecting data. Therefore, the high load and battery drain would also be a problem to slove.
+
+For environment, the light conditions, shadows, and movement burr would be a problem for drone to collect data. It requires model to handle low visibility conditions.
 
 
