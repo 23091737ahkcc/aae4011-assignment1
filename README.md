@@ -27,8 +27,6 @@ aae4011-assignment1
 
 ## 4. Prerequisites
 
-*List required software and dependencies (OS, ROS version, Python version, key libraries).*
-
 OS: Ubuntu 20.04.6 LTS
 
 ROS Version: ROS Noetic
@@ -76,6 +74,7 @@ Sample Screenshot:<img width="1272" height="679" alt="螢幕擷取畫面 2026-03
 ### (a) What Did You Learn? *(2 marks)*
 
 *Identify at least two specific technical skills or concepts you gained.*
+
 
 ### (b) How Did You Use AI Tools? *(2 marks)*
 
