@@ -107,17 +107,23 @@ Sample Screenshot:<img width="1272" height="679" alt="螢幕擷取畫面 2026-03
 ### (a) What Did You Learn? *(2 marks)*
 
 *Identify at least two specific technical skills or concepts you gained.*
-
+After this project, I learnt how to use ROS and optimization. For ROS, I learnt connect the r
 
 ### (b) How Did You Use AI Tools? *(2 marks)*
 
-*Describe how you used AI assistants. Discuss both benefits and limitations. If you did not use any, explain your alternative approach.*
+I have used AI Tools for writing the Python script and terminals command.
+
+For the benefits, it can be a teacher to teach me all the procedures from downloading a workable code editor to complete the assignment requirements with a workable vehicle detector. It also explains cleanly for every procedure and provides real time solutions when error appears.
+
+For the limitations, it does not actually look on your screen so there will be misunderstandings during the process. Therefore, it requires users to provide detailed prompt, error information, or some screenshot for better communication and understanding.
 
 ### (c) How to Improve Accuracy? *(2 marks)*
 
 *Propose two concrete strategies to improve detection accuracy and explain why each would help.*
 
+
 ### (d) Real-World Challenges *(2 marks)*
 
 *Discuss two challenges of deploying this pipeline on an actual drone in real time.*
+
 
