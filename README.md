@@ -106,8 +106,7 @@ Sample Screenshot:<img width="1272" height="679" alt="螢幕擷取畫面 2026-03
 
 ### (a) What Did You Learn? *(2 marks)*
 
-*Identify at least two specific technical skills or concepts you gained.*
-After this project, I learnt how to use ROS and optimization. For ROS, I learnt connect the r
+After this project, I learnt how to use ROS and optimization. For ROS, I learnt how to download and connect with the code editor. For optimization, I learnt to cut down the detection video quality during to test to ensure the scripts working. After the result is stable, I adjust the quality to balance both detection accuracy and video quality.
 
 ### (b) How Did You Use AI Tools? *(2 marks)*
 
