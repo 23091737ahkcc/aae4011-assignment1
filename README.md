@@ -10,7 +10,7 @@ In this project, we are going to research and learn how to make a ROS based vehi
 
 ## 2. Detection Method *(Q3.1 — 2 marks)*
 
-I have chossed YOLOv5s for this project since it balances both detect speed and accuracy while maintaining the frame rate.
+I have chossen YOLOv5s for this project since it balances both detect speed and accuracy while maintaining the frame rate.
 
 ## 3. Repository Structure
 aae4011-assignment1
