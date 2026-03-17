@@ -15,23 +15,23 @@ I have chossed YOLOv5s for this project since it balances both detect speed and 
 ## 3. Repository Structure
 aae4011-assignment1
   
-├──launch
+    ├──launch
 
-   └── terminal 1                # roscore
+        └── terminal 1                # roscore
 
-   └── terminal 2                # export display
+        └── terminal 2                # export display
 
-   └── terminal 3                # play rosbag
+        └── terminal 3                # play rosbag
 
-├──scripts
+    ├──scripts
    
-   └── detect_cars.py            # base code
+        └── detect_cars.py            # base code
 
-├── CMakeLists.txt               # Define rules and packages
+    ├── CMakeLists.txt               # Define rules and packages
 
-├── README.md                    # project document
+    ├── README.md                    # project document
 
-├── package.xml                  # declarations
+    └── package.xml                  # declarations
 
 
 
